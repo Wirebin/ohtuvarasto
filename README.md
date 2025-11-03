@@ -1,3 +1,3 @@
 # ohtuvarasto
 
-![GHA Workflow Badge](https://github.com/Wirebin/ohtuvarasto/actions/workflows/main.yml/badge.svg)
+[![GHA Workflow Badge](https://github.com/Wirebin/ohtuvarasto/actions/workflows/main.yml/badge.svg)](https://github.com/Wirebin/ohtuvarasto/actions)

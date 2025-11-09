@@ -7,7 +7,7 @@ class Varasto:
         else:
             self.saldo = min(alku_saldo, self.tilavuus)
 
-    # huom: ominaisuus voidaan myös laskea. TESTITESTITESITESTITESTITESTITESITESTITESTITESTITESITESTITESTITESTITESITESTI
+    # huom: ominaisuus voidaan myös laskea. TESTITESTITESITESTITESTITESTITESITESTITESTITESTITESITESTITESTITESTITESI
     def paljonko_mahtuu(self):
         return self.tilavuus - self.saldo
 
